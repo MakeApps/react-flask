@@ -4,6 +4,7 @@
 Clone the Repo
 - git clone git@github.com:MakeApps/react-flask.git
 - cd react-flask
+- pip install flask
 - pipenv shell
 
 Run the Flask Server 
