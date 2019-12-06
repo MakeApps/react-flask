@@ -1,4 +1,4 @@
-#Sample Applicatoin Demostratoin Purpose 
+#Sample Application Demonstration Purpose
 #Using Python Flask JWT Token and ReactJS.
 
 Clone the Repo
